@@ -1,0 +1,19 @@
+*{
+background-color:lightgrey;
+}
+h1{
+    color: brown;
+    background-color: rgb(240,212,216);
+}
+.paragraph1{
+    color: rgba(70, 69, 69, 0.938);
+    font-weight: 500;
+}
+.link a{
+    color:green;
+    background-color: lemonchiffon;
+}
+.paragraph2{
+    color: goldenrod;
+    background-color: rgb(241, 245, 186);
+}
